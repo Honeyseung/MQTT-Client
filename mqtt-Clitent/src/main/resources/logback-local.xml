@@ -2,10 +2,9 @@
 <configuration scan="true" scanPeriod="30 seconds" debug="false">
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
 
-    <property name="LOG_DIR" value="${APD_LOG_DIR:-./var/logs}"/>
-    <property name="LOG_FILE" value="${APD_DEBUG_FILE:-apd_debug}"/>
-    <property name="API_TRACE_LOG_FILE" value="${APD_DEBUG_FILE:-apd_api_trace}"/>
-    <property name="IF_TRACE_LOG_FILE" value="${APD_DEBUG_FILE:-apd_if_trace}"/>
+    <property name="LOG_DIR" value="${MQTT_LOG_DIR:-./var/logs}"/>
+    <property name="LOG_FILE" value="${MQTT_DEBUG_FILE:-mqtt_debug}"/>
+    <property name="MQTT_LOG_FILE" value="${APD_DEBUG_FILE:-mqtt_trace}"/>
 
     <appender name="consoleAppender" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
