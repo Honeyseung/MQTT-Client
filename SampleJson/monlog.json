@@ -1,0 +1,98 @@
+ [
+    [
+        {
+            "logTyp":"monitoring",
+            "sysId":"0001",
+            "sysNm":"DS4 Smart Platform",
+            "osNm":"CentOS",
+            "osVer":"7.6",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":5,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0002",
+            "sysNm":"VDR",
+            "osNm":"Linux",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":5,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0003",
+            "sysNm":"AMS",
+            "osNm":"Linux",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":5,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        }
+    ],
+    [
+        {
+            "logTyp":"monitoring",
+            "sysId":"0001",
+            "sysNm":"DS4 Smart Platform",
+            "osNm":"CentOS2",
+            "osVer":"7.6",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":4,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0002",
+            "sysNm":"VDR",
+            "osNm":"Linux2",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":4,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0003",
+            "sysNm":"AMS",
+            "osNm":"Linux2",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":4,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        }
+    ],
+    [
+        {
+            "logTyp":"monitoring",
+            "sysId":"0001",
+            "sysNm":"DS4 Smart Platform",
+            "osNm":"CentOS3",
+            "osVer":"7.6",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":3,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0002",
+            "sysNm":"VDR",
+            "osNm":"Linux3",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":3,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        },
+        {
+            "logTyp":"monitoring",
+            "sysId":"0003",
+            "sysNm":"AMS",
+            "osNm":"Linux3",
+            "osVer":"3.0",
+            "logEntDt":1675399844000,
+            "rcvdLogNum":3,
+            "sw":[{"swNm":"gwd", "swVer":"1.1"}, {"swNm":"isd", "swVer":"2.0"}]
+        }
+    ]
+]
